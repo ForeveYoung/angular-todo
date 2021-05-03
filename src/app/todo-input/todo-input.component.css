@@ -1,0 +1,13 @@
+.add-btn {
+  padding: 9px 40px;
+  background-color: lightgreen;
+  display: block;
+  margin: 10px auto 5px auto;
+}
+
+input {
+  border-bottom: 2px solid grey;
+  background-color: transparent;
+  padding: 5px 0px 5px 10px;
+  width: 100%;
+}

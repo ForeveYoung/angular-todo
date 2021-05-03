@@ -1,0 +1,13 @@
+.wrapper {
+  background-color: #f8f8ff;
+  padding: 30px;
+  max-width: 600px;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.title {
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 20px;
+}

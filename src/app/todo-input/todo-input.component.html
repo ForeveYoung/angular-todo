@@ -1,1 +1,4 @@
-<p>todo-input works!</p>
+<form class="todo-input" [formGroup]="task" (submit)='addOpt(option.value)'>
+    <input type="text" formControlName="taskInp" placeholder="Don't forget..."  #option>
+    <button class="add-btn" type="submit" >Add task</button>
+</form>  
